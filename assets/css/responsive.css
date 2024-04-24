@@ -1,0 +1,372 @@
+@media only screen and (max-width: 2560px) {
+	.saas-banner-bg {
+		width: 2560px;
+	}
+}
+
+@media only screen and (max-width: 1920px) {
+	.saas-banner-bg {
+		width: 1920px;
+	}
+}
+
+@media only screen and (max-width: 1024px) {
+
+	.blog-posts,
+	.pricing-page,
+	.contact-form-page {
+		padding: 60px 0;
+	}
+
+	.qr-frm {
+		padding-bottom: 0px;
+	}
+
+	#footer-saas-two .footer-nner {
+		padding: 40px 0 10px;
+	}
+
+	.widget-about p {
+		padding-right: 30px;
+	}
+
+	.sidebar-widget-area {
+		padding-left: 15px;
+	}
+
+	.price-hd {
+		padding: 30px 25px 20px;
+	}
+
+	.pricing-table .price-feature {
+		padding: 30px 25px;
+	}
+
+	.faq .card .card-header .btn-link {
+		padding: 20px 30px;
+	}
+
+	.account-tabs .gp-tabs-navigation {
+		margin-bottom: 40px;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+
+	.terms-conditions {
+		padding: 60px 0px;
+		margin-top: 70px;
+	}
+	.banner-saas-main .banner-content-sass {
+		margin: 40px;
+	}
+
+	.signup-frm {
+		width: 100% !important;
+	}
+
+	.banner-saas-main .banner-content-sass {
+		margin: 20px 0 30px;
+	}
+
+	.banner-saas-main .banner-content-sass .description {
+		padding-right: 0px;
+	}
+
+	.bmt-100 {
+		margin-top: 0px;
+	}
+
+	.pr-2 {
+		padding-right: 15px !important;
+	}
+
+	.pl-2 {
+		padding-left: 15px !important;
+	}
+
+	.site-header .site-logo a {
+		width: 95px;
+	}
+
+	.mobile-offcanvas-logo {
+		width: 95px;
+	}
+
+	.menu-wrapper .nav-right {
+		width: 100%;
+	}
+
+	.canvas-header {
+		margin-bottom: 15px;
+	}
+
+	.pricing-table {
+		padding: 0 0px 35px;
+	}
+
+	.astriol__blog-post .entry-content {
+		padding: 20px 15px;
+	}
+
+	.astriol__blog-post .entry-content .entry-title {
+		margin: 10px 0 15px;
+		font-size: 16px;
+	}
+
+	.sidebar-widget-area .widget .widget-title {
+		margin-bottom: 25px;
+	}
+
+	.gp-posts-widget-wrapper .post-item .post-widget-thumbnail {
+		width: 65px;
+		margin-right: 15px;
+	}
+
+	.gp-posts-widget-wrapper .post-item .post-widget-title {
+		font-size: 13px;
+		line-height: 18px;
+		margin-bottom: 0px;
+	}
+
+	.gp-posts-widget-wrapper .post-item .post-meta li {
+		margin-right: 0px;
+	}
+
+	.gp-posts-widget-wrapper .post-item .post-meta li a {
+		font-size: 10px;
+	}
+
+	.gp-posts-widget-wrapper .post-item {
+		margin-bottom: 15px;
+	}
+
+	.faq.style-three .card .card-body {
+		padding: 20px;
+	}
+
+	.faq .card .card-header .btn-link {
+		padding: 20px 60px 20px 20px;
+	}
+
+	.section-heading.style-two {
+		margin-bottom: 35px;
+	}
+
+	.gp-input {
+		height: 45px;
+		padding: 10px 15px;
+	}
+
+	.contact-form-wrapper input {
+		margin-bottom: 15px;
+	}
+
+	.gp-textarea {
+		height: 115px !important;
+	}
+
+	.contact-form-wrapper textarea {
+		margin-bottom: 20px;
+
+	}
+
+	.gp-tabs-content {
+		min-height: auto !important;
+	}
+
+	.gp-col-2 {
+		width: 20%;
+		padding: 0 15px;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+
+	.banner-pertical li:nth-child(1),
+	.banner-pertical li:nth-child(2),
+	.banner-pertical li:nth-child(5),
+	.banner-pertical li:nth-child(4) {
+		display: none;
+	}
+	.terms-conditions {
+		padding: 50px 0px;
+	}
+
+	.page-banner .page-title-wrapper {
+		margin-top: 0px;
+	}
+
+	.blog-posts,
+	.pricing-page,
+	.contact-form-page {
+		padding: 50px 0 50px;
+	}
+
+	.page-banner .page-title-wrapper .page-title {
+		font-size: 32px;
+	}
+
+	body.home-seo h1 {
+		font-size: 30px;
+		text-align: center;
+	}
+
+	.accordion {
+		padding: 20px;
+	}
+
+	#footer-saas-two .footer-nner {
+		padding: 50px 0 10px;
+	}
+
+	#footer-saas-two .widget.footer-widget .footer-logo {
+		margin-bottom: 20px;
+		margin-top: 0px;
+		width: 95px;
+	}
+
+	#footer-saas-two .widget.footer-widget .widget-title {
+		margin-top: 20px;
+		margin-bottom: 10px;
+	}
+
+	#footer-saas-two .footer-menu li a {
+		line-height: 30px;
+	}
+
+	#footer-saas-two .footer-menu {
+		margin-bottom: 5px;
+	}
+
+	.pricing-page .section-heading.style-two .section-title:before,
+	.pricing-page .section-heading.style-two .section-title:after {
+		display: none;
+	}
+
+	.section-heading.style-two {
+		margin-bottom: 0px;
+	}
+
+	.price-hd {
+		border-top: 1px solid #f1f3f8;
+		padding: 20px;
+	}
+
+	.pricing-table .price-header .price-title {
+		font-size: 14px;
+	}
+
+	.pricing-table .price-period .price {
+		font-size: 25px;
+	}
+
+	.pricing-table .price-feature {
+		padding: 15px 20px;
+	}
+
+	.pricing-table {
+		max-width: 500px;
+		margin: 0 auto 0px;
+	}
+
+	.pricng-left {
+		padding-left: 15px !important;
+	}
+
+	.pricing-table.color-theme .price-period .period {
+		padding-bottom: 0px !important;
+	}
+
+	.gp-posts-widget-wrapper .post-item:last-child {
+		margin-bottom: 0px;
+	}
+
+	.astriol__blog-single h3 {
+		font-size: 25px;
+	}
+
+	.astriol__blog-single p {
+		margin-bottom: 25px;
+	}
+
+	.faq.style-three .card .card-body {
+		padding: 15px;
+	}
+
+	.faq .card .card-header .btn-link {
+		padding: 15px 60px 15px 15px;
+		font-size: 15px !important;
+	}
+
+	.account-tabs .gp-tabs-navigation {
+		margin-bottom: 35px;
+	}
+
+	.account-form {
+		width: auto !important;
+		margin: 30px 15px 0px;
+	}
+
+	.account-form .gp-input {
+		height: 45px;
+	}
+
+	.account-form .gp-input-group {
+		margin-bottom: 20px;
+	}
+
+	.tab-content-inner {
+		margin: 0 auto 10px;
+	}
+
+	.form2 {
+		margin: 100px 15px 0px;
+	}
+
+	.cmpny-logo {
+		position: absolute;
+		bottom: 110px;
+	}
+
+	.logo-c {
+		width: 100px;
+	}
+
+	.form2 .cm-lg{
+		margin-bottom: 0px;
+	}
+	.gp-tabs-content {
+		min-height: auto !important;
+		height: auto !important;
+	}
+	.acco-desc h6 {
+		margin-bottom: 10px;
+	}
+	.accordion .form-control{
+		margin-bottom: 10px;
+	}
+	.gp-col-2{
+		padding: 0 5px;
+	}
+	.cofounder-boxes .cofounder-box{
+		padding: 15px 0 15px;
+	}
+	.cofounder-box img{
+		width: 30px;
+	}
+	.cofounder-boxes .cofounder-box .box-icon {
+		margin-bottom: 5px;
+	}
+	.cofounder-boxes .cofounder-box h3{
+		font-size: 13px;
+	}
+
+	.accordion .input-group .form-control{
+		margin-bottom: 0px;
+	}
+	.astriol__blog-single h4{
+		font-size: 20px;
+	}
+
+}
